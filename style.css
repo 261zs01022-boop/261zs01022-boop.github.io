@@ -4,8 +4,14 @@
 }
 #kyozai {
         
-        font-size:100px;
-        color:yellow;
+        font-size:200px;
+        font-color:yellow;
+}
+
+#chumoku {
+
+        font-size:250px
+        backgroundcolor:red;
 }
 
 /* --------------------
